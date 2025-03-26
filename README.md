@@ -1,4 +1,4 @@
-## Software QA Engineer Exam
+## QUality Assurance Engineer Exam
 
 **Objective:** Evaluate your ability to explore a web application, identify key user flows, and write detailed test cases.
 **App Under Test:** [SauceDemo Web App](https://www.saucedemo.com/)
